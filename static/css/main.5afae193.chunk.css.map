@@ -1,0 +1,1 @@
+{"version":3,"sources":["custom.css"],"names":[],"mappings":"AAAA,iBACE,SACF,CAMA,eAHE,eAMF,CAHA,SAEE,cACF,CAEA,SACE,YACF","file":"main.5afae193.chunk.css","sourcesContent":[".time-and-button {\n  margin: 2%;\n}\n\n.bold {\n  font-weight: bold;\n}\n\n.options {\n  font-weight: bold;\n  font-size: 20px;\n}\n\n.spacing {\n  margin: 3% 1%;\n}\n"]}
